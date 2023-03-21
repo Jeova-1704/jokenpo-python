@@ -20,7 +20,7 @@ while True:
 
       pc = [1, 2, 3]#1=pedra #2=papel #3=tesoura
       escolha = choice(pc)
-      #print('JO...'), sleep(2), print('KEN...'), sleep(2), print('Pô!!!')
+      print('JO...'), sleep(2), print('KEN...'), sleep(2), print('Pô!!!')
       if player == 1 and escolha == 1:#se player escolher PEDRA e pc escolher pedra
             print('-=-'*10)
             print('JOGADOR = PEDRA')
