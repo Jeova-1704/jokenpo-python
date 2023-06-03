@@ -22,7 +22,7 @@ O código possui as seguintes funcionalidades:
 3. Navegue até o diretório onde o código foi baixado.
 4. Abra um terminal ou prompt de comando nesse diretório.
 5. Execute o seguinte comando para iniciar o jogo:
- $ python main.py 
+<pre>python main.py</pre> 
 6. Siga as instruções exibidas no terminal para fazer suas escolhas e jogar o jogo.
 7. Após cada partida, você terá a opção de jogar novamente ou encerrar o jogo.
 8. O resultado final do jogo será exibido antes de encerrar completamente.
